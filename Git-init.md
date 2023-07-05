@@ -1,4 +1,4 @@
-# Git-session-1
+# Git-init
 🌟 git init 🌟
 
 📝 This is a Git command that is used to create a new or initialize an existing Git repository. When you run this command in a project, Git creates a new hidden directory named ".git". This directory contains all the information and history of your project version control.
